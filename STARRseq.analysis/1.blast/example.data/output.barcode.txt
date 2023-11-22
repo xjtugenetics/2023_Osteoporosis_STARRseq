@@ -1,0 +1,3 @@
+Output1	CTGTACAT
+Output2	ACGTATGA
+Output3	ATAAGGTC

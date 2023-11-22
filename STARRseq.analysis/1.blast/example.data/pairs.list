@@ -1,0 +1,6 @@
+Input1	example.SNPs.input.fq.Input1.merged1.fq.out.mutation.count;example.SNPs.input.fq.Input1.merged2.fq.out.mutation.count
+Input2	example.SNPs.input.fq.Input2.merged1.fq.out.mutation.count;example.SNPs.input.fq.Input2.merged2.fq.out.mutation.count
+Input3	example.SNPs.input.fq.Input3.merged1.fq.out.mutation.count;example.SNPs.input.fq.Input3.merged2.fq.out.mutation.count
+Output1	example.SNPs.output.fq.Output1.merged1.fq.out.mutation.count;example.SNPs.output.fq.Output1.merged2.fq.out.mutation.count
+Output2	example.SNPs.output.fq.Output2.merged1.fq.out.mutation.count;example.SNPs.output.fq.Output2.merged2.fq.out.mutation.count
+Output3	example.SNPs.output.fq.Output3.merged1.fq.out.mutation.count;example.SNPs.output.fq.Output3.merged2.fq.out.mutation.count

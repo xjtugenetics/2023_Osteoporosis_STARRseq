@@ -1,0 +1,7 @@
+sample	barcode	batch	condition
+allele1_sample1	1	1	allele1
+allele1_sample2	1	2	allele1
+allele1_sample3	1	3	allele1
+allele2_sample1	1	1	allele2
+allele2_sample2	1	2	allele2
+allele2_sample3	1	3	allele2

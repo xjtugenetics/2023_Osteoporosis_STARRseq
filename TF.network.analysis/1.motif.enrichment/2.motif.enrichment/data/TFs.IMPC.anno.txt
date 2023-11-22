@@ -1,0 +1,121 @@
+#mgi_accession_id	marker_symbol	human_gene_symbol	p_value	mp_id	mp_term
+MGI:102853	Elk4	ELK4	1.12596774860529E-5	MP:0000062	increased bone mineral density
+MGI:102853	Elk4	ELK4	1.46592714318475E-5	MP:0000063	decreased bone mineral density
+MGI:102853	Elk4	ELK4	1.71658299278242E-6	MP:0003795	abnormal bone structure
+MGI:103063	Stat1	STAT1	5.94999235487665E-10	MP:0010124	decreased bone mineral content
+MGI:103239	Tfap4	TFAP4	1.063370867882E-5	MP:0003049	abnormal lumbar vertebrae morphology
+MGI:103239	Tfap4	TFAP4	1.58245554927888E-5	MP:0003050	abnormal sacral vertebrae morphology
+MGI:104672	Tfap2b	TFAP2B	3.18446191106594E-5	MP:0010052	increased grip strength
+MGI:104717	Meis1	MEIS1	4.640211455108E-5	MP:0010123	increased bone mineral content
+MGI:105084	Satb1	SATB1	0.0	MP:0010123	increased bone mineral content
+MGI:105084	Satb1	SATB1	2.33905102732574E-6	MP:0003795	abnormal bone structure
+MGI:107159	Hmx2	HMX2	0.0	MP:0010123	increased bone mineral content
+MGI:107160	Hmx3	HMX3	1.20813623276101E-5	MP:0010053	decreased grip strength
+MGI:107307	Ing4	ING4	1.05153572899053E-5	MP:0010052	increased grip strength
+MGI:107307	Ing4	ING4	2.04671318689355E-5	MP:0002764	short tibia
+MGI:107445	Dbx2	DBX2	7.84759930213068E-7	MP:0003795	abnormal bone structure
+MGI:107755	Neurod2	NEUROD2	2.2372992944944E-6	MP:0010052	increased grip strength
+MGI:107755	Neurod2	NEUROD2	5.36730278644682E-5	MP:0002764	short tibia
+MGI:108398	Mlx	MLX	5.87991359173684E-5	MP:0010123	increased bone mineral content
+MGI:109336	Etv6	ETV6	2.52906411499775E-5	MP:0000063	decreased bone mineral density
+MGI:109340	Pitx2	PITX2	3.19835546407824E-21	MP:0010052	increased grip strength
+MGI:109392	Esr2	ESR2	1.32729477292287E-11	MP:0010124	decreased bone mineral content
+MGI:109392	Esr2	ESR2	2.98583044134881E-5	MP:0000063	decreased bone mineral density
+MGI:109495	Nfil3	NFIL3	0.0	MP:0010124	decreased bone mineral content
+MGI:109617	Barx2	BARX2	1.74718954445615E-16	MP:0000137	abnormal vertebrae morphology
+MGI:1100498	Pitx3	PITX3	6.97310280682549E-5	MP:0010052	increased grip strength
+MGI:1194883	Crx	CRX	0.0	MP:0002764	short tibia
+MGI:1197522	Irx3	IRX3	1.29756883110988E-6	MP:0010124	decreased bone mineral content
+MGI:1197522	Irx3	IRX3	8.93498181381381E-5	MP:0010052	increased grip strength
+MGI:1201683	Eomes	EOMES	3.26670805063101E-5	MP:0010124	decreased bone mineral content
+MGI:1332234	Zfp148	ZNF148	4.0021497261386E-5	MP:0000062	increased bone mineral density
+MGI:1342287	Klf4	KLF4	1.61723578843534E-10	MP:0010053	decreased grip strength
+MGI:1346831	Esrra	ESRRA	2.2078277331361E-5	MP:0010052	increased grip strength
+MGI:1347071	Zfp260	ZNF260	0.0	MP:0000063	decreased bone mineral density
+MGI:1347071	Zfp260	ZNF260	1.83743154671387E-9	MP:0002764	short tibia
+MGI:1347092	Zfp146	ZNF146	5.32301804800872E-5	MP:0010052	increased grip strength
+MGI:1352453	Nr2f6	NR2F6	3.34326236008577E-5	MP:0003795	abnormal bone structure
+MGI:1352453	Nr2f6	NR2F6	3.74477204033124E-5	MP:0010124	decreased bone mineral content
+MGI:1890081	Foxo3	FOXO3	3.7848315396738E-5	MP:0000063	decreased bone mineral density
+MGI:1891916	Plag1	PLAG1	0.0	MP:0002764	short tibia
+MGI:1891916	Plag1	PLAG1	1.86750892304377E-5	MP:0010052	increased grip strength
+MGI:1891916	Plag1	PLAG1	7.21350089838424E-6	MP:0003795	abnormal bone structure
+MGI:1916087	Foxk2	FOXK2	1.41972296583856E-5	MP:0000063	decreased bone mineral density
+MGI:1916087	Foxk2	FOXK2	2.22044604925031E-16	MP:0010124	decreased bone mineral content
+MGI:1916087	Foxk2	FOXK2	4.74850116769035E-6	MP:0010053	decreased grip strength
+MGI:1916087	Foxk2	FOXK2	5.24522356948719E-5	MP:0003795	abnormal bone structure
+MGI:1920093	Prdm4	PRDM4	5.16301927128788E-6	MP:0002764	short tibia
+MGI:1921004	Thap1	THAP1	0.0	MP:0010052	increased grip strength
+MGI:1921283	Zfp329	ZNF329	4.20202377657978E-5	MP:0010053	decreased grip strength
+MGI:1921783	Gzf1	GZF1	0.0	MP:0002764	short tibia
+MGI:1921783	Gzf1	GZF1	0.0	MP:0003795	abnormal bone structure
+MGI:1927715	Sp5	SP5	6.19858618495264E-5	MP:0010052	increased grip strength
+MGI:1931415	Mynn	MYNN	3.32342769016106E-8	MP:0010124	decreased bone mineral content
+MGI:1935151	Klf7	KLF7	0.0	MP:0000137	abnormal vertebrae morphology
+MGI:2140248	Zbtb48	ZBTB48	3.0011997024231E-6	MP:0003795	abnormal bone structure
+MGI:2385261	Cnot3	CNOT3	2.01543408882968E-6	MP:0000063	decreased bone mineral density
+MGI:2385261	Cnot3	CNOT3	9.66918417342976E-6	MP:0010124	decreased bone mineral content
+MGI:2443432	Foxj3	FOXJ3	1.01583046617092E-11	MP:0010123	increased bone mineral content
+MGI:2443472	Atf7	ATF7	0.0	MP:0000062	increased bone mineral density
+MGI:2444008	Bptf	BPTF	2.69000184749053E-6	MP:0004609	vertebral fusion
+MGI:2444008	Bptf	BPTF	8.88017070885832E-5	MP:0003795	abnormal bone structure
+MGI:2444210	Nr1d1	NR1D1	1.1794547424113E-6	MP:0010123	increased bone mineral content
+MGI:2445066	Hmbox1	HMBOX1	7.99327595375387E-6	MP:0000157	abnormal sternum morphology
+MGI:2654070	Sox21	SOX21	0.0	MP:0010053	decreased grip strength
+MGI:3588194	Prdm14	PRDM14	0.0	MP:0010124	decreased bone mineral content
+MGI:3588194	Prdm14	PRDM14	1.19148981745158E-18	MP:0000150	abnormal rib morphology
+MGI:3588194	Prdm14	PRDM14	1.26412139204372E-7	MP:0003795	abnormal bone structure
+MGI:3588194	Prdm14	PRDM14	1.29752003527967E-7	MP:0000063	decreased bone mineral density
+MGI:3588194	Prdm14	PRDM14	3.2400955360932E-9	MP:0002764	short tibia
+MGI:894680	Bach1	BACH1	5.24158157143868E-7	MP:0000062	increased bone mineral density
+MGI:894680	Bach1	BACH1	8.33370215261897E-5	MP:0010123	increased bone mineral content
+MGI:95295	Egr1	EGR1	3.26820272194559E-5	MP:0002764	short tibia
+MGI:95387	Emx1	EMX1	0.0	MP:0010123	increased bone mineral content
+MGI:95387	Emx1	EMX1	1.73257501390189E-6	MP:0003795	abnormal bone structure
+MGI:95387	Emx1	EMX1	3.97594431603074E-5	MP:0010053	decreased grip strength
+MGI:95457	Mecom	MECOM	1.27532147355937E-14	MP:0010123	increased bone mineral content
+MGI:95610	Gabpa	GABPA	0.0	MP:0000438	abnormal cranium morphology
+MGI:95667	Gbx1	GBX1	0.0	MP:0000154	rib fusion
+MGI:95667	Gbx1	GBX1	0.0	MP:0004609	vertebral fusion
+MGI:96171	Hoxa10	HOXA10	0.0	MP:0010123	increased bone mineral content
+MGI:96522	Rbpj	RBPJ	0.0	MP:0000063	decreased bone mineral density
+MGI:96522	Rbpj	RBPJ	9.18611743412756E-5	MP:0010052	increased grip strength
+MGI:97250	Myc	MYC	0.0	MP:0000063	decreased bone mineral density
+MGI:97250	Myc	MYC	1.11022302462516E-16	MP:0002764	short tibia
+MGI:97250	Myc	MYC	2.11029867231982E-5	MP:0010124	decreased bone mineral content
+MGI:97250	Myc	MYC	3.47325329694812E-6	MP:0003795	abnormal bone structure
+MGI:97250	Myc	MYC	4.43648221684872E-8	MP:0010052	increased grip strength
+MGI:97316	Nfya	NFYA	1.02939394429088E-8	MP:0010053	decreased grip strength
+MGI:97316	Nfya	NFYA	1.11744447137952E-5	MP:0000062	increased bone mineral density
+MGI:97324	Nhlh2	NHLH2	0.0	MP:0003795	abnormal bone structure
+MGI:97324	Nhlh2	NHLH2	0.0	MP:0010124	decreased bone mineral content
+MGI:97324	Nhlh2	NHLH2	2.91577180410534E-17	MP:0000063	decreased bone mineral density
+MGI:97496	Pbx3	PBX3	0.0	MP:0002896	abnormal bone mineralization
+MGI:97496	Pbx3	PBX3	1.50226080414612E-7	MP:0000062	increased bone mineral density
+MGI:97496	Pbx3	PBX3	3.01641786571342E-5	MP:0010123	increased bone mineral content
+MGI:98216	Rxrg	RXRG	1.03707371433732E-6	MP:0002896	abnormal bone mineralization
+MGI:98216	Rxrg	RXRG	2.21804824255416E-6	MP:0010053	decreased grip strength
+MGI:98361	Sox13	SOX13	1.58015283474106E-12	MP:0004357	long tibia
+MGI:98362	Sox14	SOX14	5.22993552340201E-6	MP:0010052	increased grip strength
+MGI:98495	Tbx3	TBX3	0.0	MP:0010052	increased grip strength
+MGI:98742	Thra	THRA	1.17218346759817E-10	MP:0000062	increased bone mineral density
+MGI:98742	Thra	THRA	2.71352301088038E-7	MP:0010053	decreased grip strength
+MGI:98742	Thra	THRA	3.41000913935044E-6	MP:0010123	increased bone mineral content
+MGI:98742	Thra	THRA	4.7617785780871E-5	MP:0003795	abnormal bone structure
+MGI:98742	Thra	THRA	5.01449045053892E-6	MP:0002764	short tibia
+MGI:98872	Twist1	TWIST1	1.94444577674265E-11	MP:0004509	abnormal pelvic girdle bone morphology
+MGI:98872	Twist1	TWIST1	2.02846234139297E-27	MP:0010052	increased grip strength
+MGI:98872	Twist1	TWIST1	2.60727807377002E-30	MP:0005270	abnormal zygomatic bone morphology
+MGI:98872	Twist1	TWIST1	3.69099982803832E-18	MP:0000137	abnormal vertebrae morphology
+MGI:98872	Twist1	TWIST1	4.52894535623231E-5	MP:0000438	abnormal cranium morphology
+MGI:99698	Clock	CLOCK	0.0	MP:0000154	rib fusion
+MGI:99698	Clock	CLOCK	1.39990986580685E-8	MP:0000438	abnormal cranium morphology
+MGI:99698	Clock	CLOCK	1.49116229708712E-5	MP:0002759	abnormal caudal vertebrae morphology
+MGI:99829	Runx2	RUNX2	1.10837136129586E-10	MP:0004509	abnormal pelvic girdle bone morphology
+MGI:99829	Runx2	RUNX2	1.22910417184092E-21	MP:0005296	abnormal humerus morphology
+MGI:99829	Runx2	RUNX2	1.96638202500302E-8	MP:0000137	abnormal vertebrae morphology
+MGI:99829	Runx2	RUNX2	2.94133393923756E-11	MP:0005298	abnormal clavicle morphology
+MGI:99829	Runx2	RUNX2	3.17158569550648E-5	MP:0010124	decreased bone mineral content
+MGI:99829	Runx2	RUNX2	3.69099982803832E-18	MP:0000438	abnormal cranium morphology
+MGI:99829	Runx2	RUNX2	5.95215762870314E-8	MP:0003795	abnormal bone structure
+MGI:99829	Runx2	RUNX2	8.78615829825033E-5	MP:0005270	abnormal zygomatic bone morphology
