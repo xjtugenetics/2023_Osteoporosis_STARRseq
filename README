@@ -1,46 +1,41 @@
 ##2023_Osteoporosis_STARRseq
 
-This folder contains four subdirectories for integrative analytical pipeline of dissecting molecular regulatory mechanisms underlying osteoporosis-associated SNPs. We provided multiomics data (Hi-C, ChiP-seq) in osteoblast cells and precomputed multi-layer gene functional analyses results (e.g., TWAS/colocation/IMPC) relevant to osteoporosis. Alternatively, you can replace these annotation files with user-defined files for expanded application for GWAS SNPs associated with other human complex diseases.
+This folder contains four subdirectories for integrative analytical pipeline of STARR-seq analyses and dissecting molecular regulatory mechanisms underlying osteoporosis-associated SNPs. We provided multiomics data (Hi-C, ChiP-seq) in osteoblast cells and precomputed multi-layer gene functional analyses results (e.g., TWAS/colocation/IMPC) relevant to osteoporosis. Alternatively, you can replace these annotation files with user-defined files for expanded application for GWAS SNPs associated with other human complex diseases.
 
-1) <<functional.SNP.analysis>>
-An integrative shell script outputting epigenetic characterization, Hi-C promoter chromatin interacted genes and their osteoporosis-relevant functional annotation (pathway enrichment), allelic motif prediction and enrichment with any user-defined interested SNPs and background (optional) SNPs as input.
+1) <<HiC.genes.functional.analysis>>
+Two python scripts for analyses of <Hi-C promoter chromatin interacted genes> or <motif prediction and enrichment> with any user-defined interested SNPs and background (optional) SNPs as input.
 
-2) <<HiC.genes.functional.analysis>>
-Two python scripts for separate analyses of Hi-C promoter chromatin interacted genes and motif prediction and enrichment with any user-defined interested SNPs and background (optional) SNPs as input.
+2) <<STARRseq.analysis>>
+Step-by-step scripts for calling SNP reads from raw sequencing files of STARR-seq assay, identifying putative enhancer SNP fragment (eSNP) and identifying SNPs with biased allelic enhancer activity effect (baaSNP).
 
-3) <<STARRseq.analysis>>
-Scripts for calling SNP reads from raw sequencing files of STARR-seq assay, identifying putative enhancer SNP fragment (eSNP) and identifying of SNPs with biased allelic enhancer activity effect (baaSNP).
-
-4) <<TF.network.analysis>>
+3) <<TF.network.analysis>>
 Scripts for allelic motif prediction and enrichment analyses from user-defined interested SNPs and background SNPs as input, and following TF regulatory network analyses (target gene identification, TF scoring)
 
+4) <<functional.SNP.analysis>>
+A one-step shell script outputting epigenetic characterizations, Hi-C promoter chromatin interacted genes and their osteoporosis-relevant functions (pathway enrichment,IMPC,colocalization), allelic motif prediction and enrichment with any user-defined interested SNPs and background (optional) SNPs as input.
+
 ##Getting Started
-
-In order to download 2023_Osteoporosis_STARRseq, you can clone this repository via the commands  
-git clone https://github.com/xjtugenetics/2023_Osteoporosis_STARRseq.git
-
 #dowload human genome sequence (fasta, hg19) from public resources(e.g.,UCSC) and replace it with All-chromosome.fa
-cd ./TF.network.analysis/1.motif.enrichment/1.allelic.motif.prediction/files/motif_database
-wget -c https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/latest/hg19.fa.gz
-mv hg19.fa.gz All-chromosome.fa.gz
+*cd ./TF.network.analysis/1.motif.enrichment/1.allelic.motif.prediction/files/motif_database
+*wget -c https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/latest/hg19.fa.gz
+*mv hg19.fa.gz All-chromosome.fa.gz
 
-Some R packages and python dependencies need are listed below.
+#Some R packages and python dependencies need are listed below.
 *R  v3.4.1 (packages: clusterProfiler, DOSE, exact2x2, ggplot2, limma, MPRAnalyze, org.Hs.eg.db, patchwork, ReactomePA, Rgraphviz)
 *Python v2.7.16 (packages: numpy, BioPython)
 *bedtools   v2.29.0
 *fimo   v5.4.1  (from meme suite toolkit)
 *bowtie2 v2.4.1
 
-Once above configuration completed, you can enter each directory and run corresponding script like                                        
-./functional.SNP.analysis/SNP.osteoporosis.functional.analysis.sh -h to print a list of all command-line options. For each directory, example input file and prepared annotation files for script test are also provided.
+#Once above configuration completed, you can enter each directory and run corresponding script like                                        
+*./functional.SNP.analysis/SNP.osteoporosis.functional.analysis.sh -h to print a list of all command-line options. For each directory, example input file and prepared annotation files for script test are also provided.
 
 ##Support
-
 Any problems?
 Email yangtielin@mail.xjtu.edu.cn
 
 ##Authors
-Xiao-Feng Chen#, Yuan-Yuan Duan#, Ying-Ying Jia et.al. (Key Laboratory of Biomedical Information Engineering of Ministry of Education, Biomedical Informatics & Genomics Center, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, China, 710049)
+Xiao-Feng Chen#, Yuan-Yuan Duan#, Ying-Ying Jia# et.al. (Key Laboratory of Biomedical Information Engineering of Ministry of Education, Biomedical Informatics & Genomics Center, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an, Shaanxi, China, 710049)
 
 ##Reference
-Xiao-Feng Chen#, Yuan-Yuan Duan#, Ying-Ying Jia et.al. Integrative high-throughput enhancer surveying and functional verification divulges YY2 condensed regulatory axis conferring risk for osteoporosis (in submission)
+Xiao-Feng Chen#, Yuan-Yuan Duan#, Ying-Ying Jia# et.al. Integrative high-throughput enhancer surveying and functional verification divulges YY2 condensed regulatory axis conferring risk for osteoporosis (in submission)
